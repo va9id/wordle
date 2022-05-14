@@ -1,5 +1,4 @@
 # Wordle
-------------------
 The popular puzzle game Wordle but in Java! The game was implemented using the Model View Controller (MVC) design patterns. 
 ------------------
 To run the project executable:
