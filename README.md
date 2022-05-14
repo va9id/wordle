@@ -1,7 +1,7 @@
 # Wordle
 **Author: Vahid**
 -----------------
-The popular puzzle game Wordle but in Java! The game was implemented using the Model View Controller (MVC) design pattern. 
+The popular puzzle game Wordle but in Java! The game was developed using the Model View Controller (MVC) design pattern. 
 ------------------
 To run the project executable:
 1. Download the project zip file.
